@@ -18,5 +18,5 @@
 <li> Don't fool anyone </li>
 <li> We can remove you from the contribution program without notice, but this has a reason and will be explained after the ban, by email.</li>
 <br></br>
-<p> For now, with confidence, these are the current rules. Always check the new files, as they may have new rules. Stay informed! </p>
+<p> For now, with confidence, these are the current rules. Stay informed! </p>
 <h4> Updated 01-25-2021 (25th, january 2021) by Lack98 </h4>
